@@ -1,0 +1,7 @@
+{
+    "host": "localhost",
+    "user": "root",
+    "database": "windows237",
+    "password": "",
+    "port": 3306
+}
